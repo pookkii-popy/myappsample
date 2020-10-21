@@ -1,0 +1,7 @@
+$ git --version :check git version (can also use this command in cmd)
+$ git config --global user.name 'Pookkii' : set name to the system (can change name to .email or something else)
+$ git add (file name) : to add file to git repository
+$ git status : to check staging area (which file we added etc.)
+$ git rm --cached (file name) : to remove the added file
+$ git add *.html : add any html files to the repository
+$ git add . :add any files to the repository
