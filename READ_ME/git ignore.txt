@@ -1,0 +1,6 @@
+This use when you ewant to ignore some file from all the files you want to add
+
+$ touch .gitignore : create file to store the ignore files (not to add them)
+
+# in visual code > .gitignore > type /(ignore files'name or folders)
+

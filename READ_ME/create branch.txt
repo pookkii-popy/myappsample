@@ -1,0 +1,8 @@
+To avoid changing any code in master
+
+$ git branch login : create new branch named 'login'
+$ git checkout login : switch branch from current to branch 'login'
+
+
+Other commands
+$ touch git.html : create new file named 'git.html'
